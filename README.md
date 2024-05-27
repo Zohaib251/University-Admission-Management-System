@@ -70,7 +70,7 @@
          
   **2): Compile the Code:**
     
-      g++ main.cpp **-o University_Management_System**
+      g++ main.cpp -o University_Management_System
     
   **3): Run the Program:**
       

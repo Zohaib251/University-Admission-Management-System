@@ -1,8 +1,8 @@
-******University Management System******
+******University Admission Management System******
 
 ****Overview****
 
-  The University Management System is a console-based application written in C++ that handles university admissions and 
+  The University Admission Management System is a console-based application written in C++ that handles university admissions and 
   displays data for various university members, including students, faculty staff, heads of departments (HODs), and the 
   Vice 
   Chancellor. The system allows new admissions for undergraduate and graduate programs and saves the data in text files.
